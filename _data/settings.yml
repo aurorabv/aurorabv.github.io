@@ -42,25 +42,23 @@ menu_settings:
 #-------------------------------
 # Author Settings
 author:
-  author_name: Alex Dias
-  author_avatar: /images/01-1.jpg
+  author_name: Aurora RM
+  author_avatar: /android-chrome-512x512.png
 
 
 #-------------------------------
 # Hero Settings
 hero:
   enable: true
-  hero_avatar: /images/01-1.jpg
-  hero_title: Hi! I’m Alex 👋
-  hero_subtitle: A digital explorer, coder, and Linux advocate
+  hero_avatar: /images/mask.png
+  hero_title: Introducing
+  hero_subtitle: Elliot Marlowe
   hero_description: |
-    I’m a digital explorer, coder, and Linux advocate. This blog is my personal knowledge base on productivity, programming, and the freedom of information.
-
-    Here, I share ideas, tools, and methods that help me balance productivity with creativity while keeping control over my digital world. Dive in, get inspired, and feel free to share your thoughts!
-  hero_image: /images/01.jpg
-  hero_image_caption: My creative space, where masterpieces are born
-  hero_button_text: Let’s Work Together
-  hero_button_link: '/contact/'
+    Elliot Marlowe is an emerging composer whose music weaves emotion and artistry into captivating soundscapes. His upcoming release, Starlit Night, is a symphonic piece inspired by the serene beauty of the night sky, inviting listeners on a journey through wonder and imagination.
+  hero_image: /images/em-starlit-night.jpg
+  hero_image_caption: Coming Soon
+  hero_button_text: Website
+  hero_button_link: 'https://elliotmarlowe.com'
 
 
 # Logos
