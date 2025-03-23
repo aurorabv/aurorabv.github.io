@@ -51,8 +51,8 @@ author:
 hero:
   enable: true
   hero_avatar: /images/mask.png
-  hero_title: Introducing
-  hero_subtitle: Elliot Marlowe
+  hero_title: Elliot Marlowe
+  hero_subtitle: 
   hero_description: |
     Elliot Marlowe is an emerging composer whose music weaves emotion and artistry into captivating soundscapes. His upcoming release, Starlit Night, is a symphonic piece inspired by the serene beauty of the night sky, inviting listeners on a journey through wonder and imagination.
   hero_image: /images/em-starlit-night.jpg
