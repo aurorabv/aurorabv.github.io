@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Coderon
-description: Coderon is a super modern and unique Jekyll blog theme
-logo: # You can add own logo. For example '/images/logo.png'.
-logo_dark:
+title: Aurora RM
+description: Aurora is a rights management company offering expert services in intellectual property management, music distribution, licensing, merchandising, and touring. Empowering creators to thrive across digital, physical, and live platforms.
+logo: aurora-logo.png # You can add own logo. For example '/images/logo.png'.
+logo_dark: aurora-logo-dk.png
 
 
 #-------------------------------
